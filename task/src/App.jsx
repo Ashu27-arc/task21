@@ -7,13 +7,13 @@ const App = () => {
       id: 1,
       title: 'Card 1',
       description: 'This is card 1 description',
-      image: 'https://task21-one.vercel.app/src/assets/c.jpg',
+      image: './src/assets/c.jpg',
     },
     {
       id: 2,
       title: 'Card 2',
       description: 'This is card 2 description',
-      image: 'https://task21-one.vercel.app/src/assets/c1.jpg',
+      image: './src/assets/c1.jpg',
     },
     {
       id: 3,
@@ -26,46 +26,46 @@ const App = () => {
       id: 4,
       title: 'Card 4',
       description: 'This is card 4 description',
-      image: 'https://task21-one.vercel.app/src/assets/c3.jpeg',
+      image: './src/assets/c3.jpeg',
      
     },
     {
       id: 5,
       title: 'Card 5',
       description: 'This is card 5 description',
-      image: 'https://task21-one.vercel.app/src/assets/c4.jpeg',
+      image: './src/assets/c4.jpeg',
    
     },
     {
       id: 6,
       title: 'Card 6',
       description: 'This is card 6 description',
-      image: 'https://task21-one.vercel.app/src/assets/c5.jpg',
+      image: './src/assets/c5.jpg',
   
     },
     {
       id: 7,
       title: 'Card 7',
       description: 'This is card 7 description',
-      image: 'https://task21-one.vercel.app/src/assets/c6.jpg'
+      image: './src/assets/c6.jpg'
     },
     {
       id: 8,
       title: 'Card 8',
       description: 'This is card 8 description',
-      image: 'https://task21-one.vercel.app/src/assets/c7.jpeg'
+      image: './src/assets/c7.jpeg'
     },
     {
       id: 9,
       title: 'Card 9',
       description: 'This is card 9 description',
-      image: 'https://task21-one.vercel.app/src/assets/c8.jpg'
+      image: './src/assets/c8.jpg'
     },
     {
       id: 10,
       title: 'Card 10',
       description: 'This is card 10 description',
-      image: 'https://task21-one.vercel.app/src/assets/c9.jpg'
+      image: './src/assets/c9.jpg'
     },
     {
       id: 11,
@@ -77,7 +77,7 @@ const App = () => {
       id: 12,
       title: 'Card 12',
       description: 'This is card 12 description',
-      image: 'https://task21-one.vercel.app/src/assets/c11.jpeg'
+      image: './src/assets/c11.jpeg'
     }
   ];
 
